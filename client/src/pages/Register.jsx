@@ -38,7 +38,7 @@ export default function Register(){
     password
    });
 
-   navigate("/login");
+   navigate("/dashboard");
 
   }catch(err){
 
